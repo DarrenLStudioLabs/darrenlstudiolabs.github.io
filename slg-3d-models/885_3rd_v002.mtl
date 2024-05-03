@@ -1,0 +1,33 @@
+newmtl building
+Kd 0.523873 0.688396 0.774136
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building_windows
+Kd 0.379494 0.498674 0.560784
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingDarker
+Kd 0.390109 0.512623 0.576471
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+

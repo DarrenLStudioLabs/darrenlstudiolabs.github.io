@@ -1,0 +1,714 @@
+newmtl skin
+Kd 0.67451 0.549584 0.470834
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.04 0.04 0.04
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl skin
+Kd 0.67451 0.549584 0.470834
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.04 0.04 0.04
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone
+Kd 0.486275 0.461946 0.356601
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.04 0.04 0.04
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone
+Kd 0.486275 0.461946 0.356601
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.04 0.04 0.04
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone_dark_blue
+Kd 0.104421 0.45175 0.760784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone_light_blue
+Kd 0.353956 0.658824 0.593084
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone
+Kd 0.486275 0.461946 0.356601
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.04 0.04 0.04
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone_dark_blue
+Kd 0.104421 0.45175 0.760784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone_light_blue
+Kd 0.353956 0.658824 0.593084
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone
+Kd 0.486275 0.461946 0.356601
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.04 0.04 0.04
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bone
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bridge
+Kd 0.537575 0.537575 0.537575
+Ke 0 0 0
+Ka 0.93 0.93 0.93
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Ottony/lightwave/Images/map_small_roads.tif
+map_bump Ottony/lightwave/images/map_main_roads_annual.tif
+bump Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl buildingLighter
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.2 0.2 0.2
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl far_card
+Kd 0.470588 0.470588 0.470588
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl land
+Kd 0.541176 0.541176 0.541176
+Ke 0.05 0.05 0.05
+Ka 0.93 0.93 0.93
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Ottony/lightwave/Images/map_small_roads.tif
+map_bump Ottony/lightwave/images/map_main_roads_annual.tif
+bump Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl line
+Kd 1 0.460217 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl map_edge
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl nerves
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl park
+Kd 0.623529 0.623529 0.623529
+Ke 0.03 0.03 0.03
+Ka 0.85 0.85 0.85
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Ottony/lightwave/images/map_small_roads_02-02.psd
+map_bump Ottony/lightwave/images/map_main_roads_thin2.psd
+bump Ottony/lightwave/images/map_main_roads_thin2.psd
+
+newmtl shadow_catch
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl tunnel
+Kd 0.505333 0.537713 0.540505
+Ke 0 0 0
+Ka 0.93 0.93 0.93
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Ottony/lightwave/Images/map_small_roads.tif
+map_bump Ottony/lightwave/images/map_main_roads_annual.tif
+bump Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl water
+Kd 0.505333 0.537713 0.540505
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone_light_blue
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingLighter
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.2 0.2 0.2
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl land
+Kd 0.541176 0.541176 0.541176
+Ke 0.05 0.05 0.05
+Ka 0.93 0.93 0.93
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Ottony/lightwave/Images/map_small_roads.tif
+map_bump Ottony/lightwave/images/map_main_roads_annual.tif
+bump Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl nerves
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl water
+Kd 0.505333 0.537713 0.540505
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.2 0.2 0.2
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl fabric
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 200
+Tr 0.705
+d 0.295
+Ni 1.03
+Tf 1 1 1
+
+newmtl fabric_end_cover
+Kd 1 1 1
+Ke 0.2 0.2 0.2
+Ka 0.555 0.555 0.555
+Ks 0 0 0
+Ns 200
+Tr 0
+d 1
+Ni 1.03
+Tf 1 1 1
+
+newmtl fabric_inside
+Kd 1 1 1
+Ke 0.2 0.2 0.2
+Ka 0.8 0.8 0.8
+Ks 0 0 0
+Ns 200
+Tr 0
+d 1
+Ni 1.03
+Tf 1 1 1
+
+newmtl glossy
+Kd 0 0 0
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.435 0.435 0.435
+Ns 344
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl inner
+Kd 0.564706 0 0.0430503
+Ke 1 1 1
+Ka 0.5 0.5 0.5
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd picts/GlareStreaks.psd
+
+newmtl outter
+Kd 0.647059 0.0786621 0.121029
+Ke 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd picts/GlareStreaks.psd
+
+newmtl outter_wire
+Kd 0 0.709213 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl plastic_tip
+Kd 0.807843 0.784586 0.769827
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl wire
+Kd 0.556863 0.412769 0
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 200
+Tr 0
+d 1
+Ni 1.03
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl fabric
+Kd 0.901961 0.888381 0.838293
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl metal
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl plastic_tip
+Kd 0.807843 0.784586 0.769827
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl stent
+Kd 0.74762 0.826919 0.87451
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl stent_2
+Kd 0.0785236 0.269197 0.870588
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl stent_end_covers
+Kd 1 1 1
+Ke 0.2 0.2 0.2
+Ka 0.555 0.555 0.555
+Ks 0 0 0
+Ns 200
+Tr 0
+d 1
+Ni 1.03
+Tf 1 1 1
+map_Kd Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl stent_fabric
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 200
+Tr 0.705
+d 0.295
+Ni 1.03
+Tf 1 1 1
+map_Kd Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl stent_inside
+Kd 1 1 1
+Ke 0.2 0.2 0.2
+Ka 0.8 0.8 0.8
+Ks 0 0 0
+Ns 200
+Tr 0
+d 1
+Ni 1.03
+Tf 1 1 1
+map_Kd Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl wire
+Kd 0.239216 0.239216 0.239216
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 200
+Tr 0
+d 1
+Ni 1.03
+Tf 1 1 1
+map_Kd Ottony/lightwave/images/map_main_roads_annual.tif
+
+newmtl building
+Kd 0.523873 0.688396 0.774136
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building_windows
+Kd 0.379494 0.498674 0.560784
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingDarker
+Kd 0.390109 0.512623 0.576471
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building
+Kd 0.523873 0.688396 0.774136
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building_windows
+Kd 0.379494 0.498674 0.560784
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingDarker
+Kd 0.390109 0.512623 0.576471
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingLighter
+Kd 0.656747 0.789592 0.858824
+Ke 0 0 0
+Ka 0.85 0.85 0.85
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building
+Kd 0.523873 0.688396 0.774136
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building_windows
+Kd 0.379494 0.498674 0.560784
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingDarker
+Kd 0.390109 0.512623 0.576471
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bone_light_blue
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building
+Kd 0.523873 0.688396 0.774136
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl building_windows
+Kd 0.379494 0.498674 0.560784
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl buildingDarker
+Kd 0.390109 0.512623 0.576471
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
